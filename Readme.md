@@ -18,3 +18,5 @@ L’utilisateur doit entrer deux entiers dans un formulaire. Avec ces deux entie
 
 
 Naturellement, avant de commencer à faire quelque calcul que ce soit, le programme doit vérifier que les données reçues sont bien des entiers et informer l’utilisateur de son erreur dans le cas contraire, tout en maintenant dans les champs du formulaire les valeurs, correctes ou incorrectes, entrées par l’utilisateur.
+
+[Vidéo de la correction](https://youtu.be/w5RkCFj7u_Q)
